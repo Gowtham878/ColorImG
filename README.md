@@ -1,0 +1,2 @@
+# ColorImG
+The Main idea of the project revolves around the concept of  converting or coloring  grey-scaled images or black and white into colored images, with no change in their quality and the purity of the colors. In order to achieve this I thought of using the GAN’s( Generative adversarial Networks) which are part of the deep learning. Unlike the other techniques used our method works in a different way , rather than colorizing the image itself , GAN’s produce an entire new colored image . 
